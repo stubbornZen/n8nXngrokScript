@@ -21,7 +21,7 @@ n8nstop.sh
 
 ```bash
 git clone https://github.com/stubbornZen/n8nXngrokScript.git
-cd n8nXngrokScript/
+cd n8nXngrokScript/Automated\ Scripts
 sudo cp *.sh /usr/local/bin/
 sudo chmod +x /usr/local/bin/*.sh
 ```
